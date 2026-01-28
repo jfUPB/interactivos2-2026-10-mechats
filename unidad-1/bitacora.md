@@ -112,35 +112,7 @@ stack(
   arrange([12, silence], [1, puente], [8, final])
   )
 
-          
-
-
-
-  
-
-
-  
-  
-
-      
-          
-          
-
-
-
-
-
-
-
-  
-
-
-
-
-
-
-
-  
+            
 
 ```
 
@@ -154,5 +126,7 @@ stack(
 
 
 
+
 ## Bitácora de reflexión
+
 
