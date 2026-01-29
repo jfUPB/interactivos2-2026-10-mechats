@@ -130,3 +130,9 @@ stack(
 ## Bitácora de reflexión
 
 
+
+<img width="1576" height="737" alt="image" src="https://github.com/user-attachments/assets/5a670b71-db5e-4dd2-a14e-a2858dacfc58" />
+
+
+
+
