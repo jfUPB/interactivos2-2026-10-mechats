@@ -268,3 +268,7 @@ function windowResized() {
 
 
 ## Bitácora de reflexión
+
+
+  <img width="1321" height="619" alt="image" src="https://github.com/user-attachments/assets/87883457-6a66-4742-a847-aab061f6754b" />
+
