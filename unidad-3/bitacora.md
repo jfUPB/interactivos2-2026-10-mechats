@@ -167,3 +167,7 @@ function windowResized() { resizeCanvas(windowWidth, windowHeight); }
 
 ## Bitácora de reflexión
 
+<img width="1445" height="708" alt="image" src="https://github.com/user-attachments/assets/51c20d1c-c5e9-4e42-bfa3-006854206661" />
+
+
+
