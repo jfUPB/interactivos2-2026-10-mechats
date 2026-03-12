@@ -381,6 +381,8 @@ function draw() {
 no logre plantear la arquitectura que elegimos en clase, el publico y las visuales tienen una relación unidireccional, este es el diagrama de MI arquitectura:
 
 
+![WhatsApp Image 2026-03-11 at 9 20 26 PM](https://github.com/user-attachments/assets/8516e0df-7e7a-4ac9-b0cd-ea5d78871e9b)
 
 
 ## Bitácora de reflexión
+
