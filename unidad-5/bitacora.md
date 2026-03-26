@@ -396,3 +396,8 @@ arrange(
 
 
 ## Bitácora de reflexión
+
+De las personas que les pregunte, si, logre el objetivo
+
+<img width="1407" height="738" alt="image" src="https://github.com/user-attachments/assets/0a4967dd-5652-4ff9-bd1d-a5953d003d97" />
+
